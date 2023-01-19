@@ -11,8 +11,8 @@ body {
 }
 .github {
   cursor: pointer;
-  height: 30px;
-  width: 30px;
+  height: 45px;
+  width: 45px;
   color: #000000;
   border-radius: 10px;
   box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
@@ -26,23 +26,19 @@ body {
   text-align: center;
 }
 .github:hover {
-  width: 105px;
-  border-radius: 5px;
+  width: 130px;
+  border-radius: 10px;
   background: #ff6b08;
 }
 .github:hover a {
-  padding: 2px;
+  padding: 10px;
   width: max-content;
-}
-.github:hover, icon {
-  margin-left: 0px;
-  margin-right: 0px;
 }
 .link {
   margin-top: 10px;
   font-weight: bold;
   font-family: 'Titillium Web', sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 16px;
   margin-top: auto;
   margin-bottom: auto;
@@ -51,8 +47,8 @@ body {
 }
 .icon {
   fill: #000000;
-  width: 24px;
-  height: 24px;
+  width: 30px;
+  height: 30px;
   margin-left: auto;
   margin-right: auto;
 }
